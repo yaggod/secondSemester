@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/landshaft">
+        <file>flower.png</file>
+        <file>grass.png</file>
+        <file>water.png</file>
+    </qresource>
+</RCC>
